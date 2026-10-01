@@ -1,0 +1,6 @@
+{
+  "name": "KBC Junior Star Quiz",
+  "description": "An interactive Kaun Banega Crorepati style quiz game designed for kids aged 3-8 with 4 options, lifelines, audio readout, and prize ladder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
